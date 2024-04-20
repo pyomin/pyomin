@@ -56,13 +56,27 @@ Hi there🙌 I am <Strong>Pyomin Hong.</Strong><br>
 <br>
 
 <div align=center>
-    
-<!--
-![pyomin's github stats](https://github-readme-stats.vercel.app/api?username=pyomin&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyomin&layout=compact)
+   
+<!--💬 GitHub Stats
 
+![pyomin's github stats](https://github-readme-stats.vercel.app/api?username=pyomin&show_icons=true) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyomindl)](https://solved.ac/pyomindl/)
+
+![pyomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyomin&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyomin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyomin&hide_progress=true)
+
+-->
 </div>
 
+<!--
+<div align=center>
+    
+⚡ Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyomindl)](https://solved.ac/pyomindl/)
+
+</div>
 
 
 
